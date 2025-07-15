@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="111" tvg-name="HBO 1", HBO 1
-https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbohd%2Fvideo.m3u8&token=79c99cf4d1d1f4c43d6f914394c3b6555a76281963eab23eb4dc9373719dec2d&timestamp=1752594708
+#EXTINF:-1 tvg-id="112" tvg-name="HBO 2", HBO 2
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4fd5be0080c7289b62d509caa618f771d88d641d-0b4be70d7a021459f8a82f501a784e89-1752605891-1752595091
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3", HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2444bec734774549bc27b49d0b81319916fb4072-1dc758b6395f8d89f1fbd8ed0aaebee9-1752605644-1752594844
+https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8&token=7a4554505e8a9a280b97c918c873ee4c1e6df8f969cc90b5a684184197efdb55&timestamp=1752594729

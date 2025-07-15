@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn13.stgledai.org/mtelsport/tracks-v1a1/mono.m3u8?token=aa97083b82b5f9613e926e72cccc21be4dc7c2a5-63801026645c14701c5adf8351b60f73-1752605617-1752594817
+https://cdn11.stgledai.org/mtelsport/tracks-v3a1/mono.m3u8?token=b85dc36927b47b14229c3fa54173fe8282f7b00b-e9e21edf936944807ddbd85df3ec7521-1752605877-1752595077
 #EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn13.stgledai.org/mtelsport2/tracks-v2a1/mono.m3u8?token=536155904c168d8dbe2015cbd0c2bf38d26cf108-c1f38f59cb84d7cf0b20ad4485eff1a2-1752605651-1752594851
+https://cdn10.stgledai.org/mtelsport2/tracks-v2a1/mono.m3u8?token=ff87d0129402e419ef8fa56cc614f36d0900ad4a-f640c5d3338c6e140d9bd8607e0c6aa9-1752605909-1752595109
 #EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn10.stgledai.org/mtelsport3/tracks-v2a1/mono.m3u8?token=e1661346909cf2ad5ef93fb193acdffc503da234-af52a695bac311ae6789741f5b142560-1752605672-1752594872
+https://cdn9.stgledai.org/mtelsport3/tracks-v2a1/mono.m3u8?token=3f0fa1c85e5d1fa58ca14a15d335ae0d2d0191a1-a38385fe00eb5c2757a17aa6698b5002-1752605930-1752595130
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -205,7 +205,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u
-#EXTINF:-1 tvg-id="111" tvg-name="HBO 1", HBO 1
-https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbohd%2Fvideo.m3u8&token=79c99cf4d1d1f4c43d6f914394c3b6555a76281963eab23eb4dc9373719dec2d&timestamp=1752594708
+#EXTINF:-1 tvg-id="112" tvg-name="HBO 2", HBO 2
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4fd5be0080c7289b62d509caa618f771d88d641d-0b4be70d7a021459f8a82f501a784e89-1752605891-1752595091
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3", HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2444bec734774549bc27b49d0b81319916fb4072-1dc758b6395f8d89f1fbd8ed0aaebee9-1752605644-1752594844
+https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8&token=7a4554505e8a9a280b97c918c873ee4c1e6df8f969cc90b5a684184197efdb55&timestamp=1752594729
