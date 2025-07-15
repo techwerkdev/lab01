@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -200,8 +200,8 @@ https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
-https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=da744b732bc3f5fed1f2a9406c1c417a1a606b58-ac119eb712e5725cbe0d6d331e01cd0d-1752623409-1752612609
+https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=52ca30137cda2a477c3a48b82df320b36a7c9cdd-9f808b8e039986aa24a59d8971a0c500-1752623590-1752612790
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=419ecf76a71a422ddce738da0e5e3b74cbfb21d0-980f47127eb4342dcd3759fab456f65e-1752623421-1752612621
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d637554e9830f2fb8bcefc637ca92ff2ee64d786-9706fc13bae327d99056c6cea7cfc2b0-1752623598-1752612798
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=10f2d1d5dc0b873780dd509202a234b330c1b630-6314acff17a6b8f326655cc059ba3b2e-1752623430-1752612630
+https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=112e1a9ca37ea8c0428bd43fc166383e29772ab3-b430050627a1caec12e470fa72a44661-1752623609-1752612809
