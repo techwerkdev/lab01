@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn11.stgledai.org/mtelsport/tracks-v3a1/mono.m3u8?token=b85dc36927b47b14229c3fa54173fe8282f7b00b-e9e21edf936944807ddbd85df3ec7521-1752605877-1752595077
 #EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn10.stgledai.org/mtelsport2/tracks-v2a1/mono.m3u8?token=ff87d0129402e419ef8fa56cc614f36d0900ad4a-f640c5d3338c6e140d9bd8607e0c6aa9-1752605909-1752595109
+https://cdn8.stgledai.org/mtelsport2/tracks-v3a1/mono.m3u8?token=e9adde8dcd3f00f8bb6b46620e3b121575705dc3-db8d21fbc88b01080b20b01e8bd959d1-1752606525-1752595725
 #EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn9.stgledai.org/mtelsport3/tracks-v2a1/mono.m3u8?token=3f0fa1c85e5d1fa58ca14a15d335ae0d2d0191a1-a38385fe00eb5c2757a17aa6698b5002-1752605930-1752595130
+https://cdn10.stgledai.org/mtelsport3/tracks-v2a1/mono.m3u8?token=3ba2da0f49cb4a1e7ede9c37fd23e49623e58d24-41cca5c0df184f425818c38ad0aa3552-1752606545-1752595745
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -206,6 +204,6 @@ https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2", HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4fd5be0080c7289b62d509caa618f771d88d641d-0b4be70d7a021459f8a82f501a784e89-1752605891-1752595091
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=1478be88e0949a4c10d808abb626cc6369c27f03-2ac8fc037f2c6f61a0bbc7c8cb3db0d7-1752606509-1752595709
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3", HBO 3
 https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8&token=7a4554505e8a9a280b97c918c873ee4c1e6df8f969cc90b5a684184197efdb55&timestamp=1752594729
