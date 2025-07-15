@@ -1,6 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn13.stgledai.org/mtelsport/tracks-v1a1/mono.m3u8?token=48b25761ea4556451e0744c6b8d9f96dde4eebdb-dee3294b89afd09a612f8de97649cc21-1752596034-1752585234
+https://cdn11.stgledai.org/mtelsport/tracks-v3a1/mono.m3u8?token=5f427d3eb489a9d2678b71252bd45fb1da6234ca-1c581487922d91d78264d6016269bddd-1752599985-1752589185
+#EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
+https://cdn10.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=f67bb2f1eff07ee1b6c13b6edb3167e296a73b31-b9377e37ec996dc561c58088a091c9b2-1752600016-1752589216
+#EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
+https://cdn10.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=e8333da7c3121fc9537148af4d8e88a60046ba58-0429ec11aa3e224d8214773fb0576376-1752600036-1752589236
+#EXTINF:-1 tvg-id="18" tvg-name="Max Sport 4", Max Sport 4
+https://cdn11.stgledai.org/mtelsport4/tracks-v1a1/mono.m3u8?token=d0b93a2ce0d690548b487f109022599da3167fcf-3007c2f0f8eda9f9eb2e1137b37d7c8a-1752600055-1752589255
+#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
+https://t2.tvmak.com/tv/TV21MK.m3u8?kOXEMP5Qzf
+#EXTINF:-1 tvg-id="19" tvg-name="Diema Sport", Diema Sport
+https://cdn8.stgledai.org/diemasport/tracks-v1a1/mono.m3u8?token=57b3b4f90f48316c0897cdd21ed1d432a984a11b-c4b01461ad6f728f9fcbbbfdb908dd35-1752600074-1752589274
+#EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
+https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Diema Sport 2", Diema Sport 2
+https://cdn9.stgledai.org/diemasport2/tracks-v3a1/mono.m3u8?token=f9cc7f8cbd8c3a50ec09413334e75f2fad50fbc3-826227480c24de588e2b365f36399eb9-1752600095-1752589295
+#EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
+https://s6.hopslan.com/servus11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Diema Sport 3", Diema Sport 3
+https://cdn8.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=843d1f4978745b56554d4cf5d4f88cdcfda21bec-d1cc8ea5d135c54810217f01fc1010c2-1752600112-1752589312
+#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Ring TV", Ring TV
+https://cdn9.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=32c1397ff24a9c6f56fd9946535cc71ace40cb91-90b4103e5cdc36b62a8b1e2f376cfdbf-1752600133-1752589333
+#EXTINF:-1 tvg-id="6" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Vox TV", Vox TV
+https://s6.hopslan.com/voxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
+https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
+https://s4.hopslan.com/oneX/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Phoenix TV", Phoenix TV
+https://s4.hopslan.com/phoenixX/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
