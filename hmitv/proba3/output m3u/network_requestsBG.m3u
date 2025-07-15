@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn10.stgledai.org/mtelsport/index.m3u8?token=ca6744fd4896a6a956c8c110331c14139422452d-6f0f78826f26a4a3658a837802a00521-1752623987-1752613187
 #EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn13.stgledai.org/mtelsport2/index.m3u8?token=41943c961e16cdd30565ee50d2fc476aa81d232b-78cd5a32020c1942e8d466329b5a9bdd-1752624022-1752613222
+https://cdn.stgledai.org:8082/hls/mtelsport2/index.m3u8?token=4db5c983f5331f284bc3f0672e5e7b71bd538ffd-c96d79c9531dc9fdb6c6fe62289b90dc-1752624831-1752614031
 #EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn8.stgledai.org/mtelsport3/index.m3u8?token=e6302a7e2dade87f74aa23f6e369976a769dc639-1629582d6508077032864a7359308408-1752624044-1752613244
+https://cdn.stgledai.org:8082/hls/mtelsport3/index.m3u8?token=151ab7e2bc716cad93205a7ab8c60b2b0730235d-b4a50bcfb6f6c6ac6f1d2eb274fedd29-1752624866-1752614066
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -206,8 +204,8 @@ https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
-https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=dcef4fe9eae060584578086d802b109cf8053215-541606e48659b55c200864a4bb8b67ef-1752623993-1752613193
+https://p11.magicplaces.eu/hbohd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e7803cf43696f7b9f6cb7ee4b432e2d68f3f1e45-2c46a45bfe0d22de03326b2632a34e6e-1752624806-1752614006
 #EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=c1ca300cad55d2cce07834107ffd523915a8c864-dbeeb918c8d13dac88653b80080e8b08-1752624001-1752613201
+https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=5109c4c4db135407de1f018d6a836972d1c07bd4-583587b7686d0d06a411c6a2737c18ab-1752624814-1752614014
 #EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e7fef012e4a20c5a1f05a401d06105242bd2b828-cd5ebf9924edcb3867313ff368c3bd68-1752624011-1752613211
+https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4c3410fc7dc144a0d1f3cb89933263d56ee7619e-c3ccd61a8dc94a1a84150b32e49c93f9-1752624827-1752614027
