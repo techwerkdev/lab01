@@ -1,10 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
-https://cdn.stgledai.org:8082/hls/mtelsport/index.m3u8?token=65c47a75aa450c7b3438174f62636763c936c451-8bd24d69a4d914230f17cbe0641ee4c7-1752625602-1752614802
-#EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn.stgledai.org:8082/hls/mtelsport2/index.m3u8?token=24efe961e239a507e52dde741987aded9ff030f1-bb322722735e15f27126578317feccde-1752625636-1752614836
 #EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn.stgledai.org:8082/hls/mtelsport3/index.m3u8?token=267db0f226400ece32308fb45d0578ba2f55c98b-b8746dd0af6e8931efd7b9e0c298fbf2-1752625665-1752614865
+https://cdn.stgledai.org:8082/hls/mtelsport3/index.m3u8?token=9a90bfef40cdc4393bbaf71ec3bff6f58ec04a8c-3166c8539b30541544f98599849d8418-1753541358-1753530558
+#EXTINF:-1 tvg-id="18" tvg-name="Max Sport 4", Max Sport 4
+https://cdn.stgledai.org:8082/hls/mtelsport4/index.m3u8?token=fa0dd87d08e221f134a806b87a3567224a173d80-35a08781488c977dc679634618a5aede-1753541383-1753530583
+#EXTINF:-1 tvg-id="19" tvg-name="Diema Sport", Diema Sport
+https://cdn.stgledai.org:8082/hls/diemasport/index.m3u8?token=852d049bf7b11443bb926c99f0eb8fa2a0bad86c-183c777757103b1c9f6a74a852f97492-1753541404-1753530604
+#EXTINF:-1 tvg-id="20" tvg-name="Diema Sport 2", Diema Sport 2
+https://cdn.stgledai.org:8082/hls/diemasport2/index.m3u8?token=dd044192a419f7471251e3851a360da3caec1f5c-38edbdcaa63213ef09a2223678272fbe-1753541438-1753530638
+#EXTINF:-1 tvg-id="21" tvg-name="Diema Sport 3", Diema Sport 3
+https://cdn10.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=dd044192a419f7471251e3851a360da3caec1f5c-38edbdcaa63213ef09a2223678272fbe-1753541438-1753530638
+#EXTINF:-1 tvg-id="23" tvg-name="RING", RING
+https://cdn.stgledai.org:8082/hls/ringbg/index.m3u8?token=60459e3a8a4b81e83efaf15d94e4314cb860522a-e297260408e84d1f7cee825cdb2da23f-1753541548-1753530748
+#EXTINF:-1 tvg-id="24" tvg-name="KINO Nova", KINO Nova
+https://cdn.stgledai.org:8082/hls/kino/index.m3u8?token=56e754326e6e949eda543cd27142facfd1636a42-d9e9dda489d0c742a82d104f0fe43492-1753541590-1753530790
+#EXTINF:-1 tvg-id="25" tvg-name="FOX Crime", FOX Crime
+https://cdn.stgledai.org:8082/hls/foxcrime/index.m3u8?token=262f9a450b05cbf24429a8755131ca6257c77043-d44e32cb3e4ac05c45acd96d563930aa-1753541628-1753530828
+#EXTINF:-1 tvg-id="26" tvg-name="FilmBox Stars", FilmBox Stars
+https://cdn.stgledai.org:8082/hls/filmboxplus/index.m3u8?token=23fb727557df3e85827ec9afd8c312474300368a-648fd343c0571c36b0339aba7efd218f-1753541662-1753530862
+#EXTINF:-1 tvg-id="27" tvg-name="FilmBox Extra", FilmBox Extra
+https://cdn.stgledai.org:8082/hls/filmboxextra/index.m3u8?token=e704988920a90ee43057ef500bbb581ed5c3fcf2-cedec19245b82bacc42e8514bb03438c-1753541680-1753530880
+#EXTINF:-1 tvg-id="28" tvg-name="HBO", HBO
+https://cdn.stgledai.org:8082/hls/filmbox/index.m3u8?token=1eb419de30e65a8f2ef5fc69b2cd35ffe1268c8e-f019eaceacda5490d80ed4ab69da4e01-1753541699-1753530899
+#EXTINF:-1 tvg-id="29" tvg-name="bTV Action", bTV Action
+https://cdn.stgledai.org:8082/hls/btvaction/index.m3u8?token=852f6884d1931e6e3e770d8bdf1e10d843466d29-7e55d43cdabf47f9ab4238918993254d-1753541718-1753530918
+#EXTINF:-1 tvg-id="39" tvg-name="AXN", AXN
+https://vi.hhkld.com/vi/19_ENG.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Viasat Nature", Viasat Nature
+https://cdn9.stgledai.org/axn/tracks-v1a1/mono.m3u8?token=b630ba85e4ce08ee3190e88af9db5c0cb62d6ea7-4f29521dbefe26bea5f46f08d3c6c03b-1753541742-1753530942
+#EXTINF:-1 tvg-id="41" tvg-name="Viasat History", Viasat History
+https://cdn.stgledai.org:8082/hls/viasat_history/index.m3u8?token=88306e4b353d34586e4981ba072970d0b81b841e-bcf7be500d9958df8f0e0d96e6d24749-1753541796-1753530996
+#EXTINF:-1 tvg-id="42" tvg-name="DocuBox", DocuBox
+https://cdn.stgledai.org:8082/hls/docubox/index.m3u8?token=b0637197f91f7f88d7b912003db819a3fc8b4502-0891ae551a4f30ee7b441334b6e69726-1753541818-1753531018
+#EXTINF:-1 tvg-id="43" tvg-name="Investigation Discovery", Investigation Discovery
+https://cdn.stgledai.org:8082/hls/idx/index.m3u8?token=aa08b18e19e9f93a1425be1ddd83e2d8476fc3db-971c77aad4ded5a563490f0b16eb3e9b-1753541841-1753531041
+#EXTINF:-1 tvg-id="44" tvg-name="History Channel", History Channel
+https://cdn.stgledai.org:8082/hls/historytv/index.m3u8?token=c825d9fa5de4b538434693281367cd86108595ac-36be3e5e2cb695b767bb4031fce06d29-1753541859-1753531059
+#EXTINF:-1 tvg-id="45" tvg-name="Net Geo Wild", Net Geo Wild
+https://cdn.stgledai.org:8082/hls/natgeowild/index.m3u8?token=0cdd82de85a28bd0e93fe4451ad3a2cc4a9aa66e-f64758932bda672720fd6c580ea87e7c-1753541883-1753531083
+#EXTINF:-1 tvg-id="46" tvg-name="National Geographic", National Geographic
+https://cdn.stgledai.org:8082/hls/ng/index.m3u8?token=92ec0da3c32abc6d4343654e4694162256288e89-8c63d712821f89ac216613946ad4d393-1753541910-1753531110
+#EXTINF:-1 tvg-id="47" tvg-name="Balkanika TV", Balkanika TV
+https://cdn.stgledai.org:8082/hls/balkanika/index.m3u8?token=24f0eb81386f71f8068a20442fb2d48a78fefb90-d2d3628a3002530e29c21e5f02ffd678-1753541929-1753531129
+#EXTINF:-1 tvg-id="48" tvg-name="The Voice", The Voice
+https://bss1.neterra.tv/thevoice/stream_0.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="BNT 1", BNT 1
+https://cdn.stgledai.org:8082/hls/bnt/index.m3u8?token=18c2039f145e6ba4fc3370d81b7364dbab395cf3-7541659ef00a481615ceb2f3cc6690be-1753541998-1753531198
+#EXTINF:-1 tvg-id="50" tvg-name="BNT 2", BNT 2
+https://cdn.stgledai.org:8082/hls/bnt2/index.m3u8?token=4342b659923bcbcb7ee7be75e13d561a58239400-c572d51f09df7f0bee071795432d8efa-1753542030-1753531230
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -205,9 +247,4 @@ https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
-https://p11.magicplaces.eu/hbohd/video.m3u8?token=7dc0addddd0ffe1e86ca6cc71699b666ae875d4f-2a8c91e63a15111da71de1b019dc42cc-1752625604-1752614804&remote=no_check_ip
-#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
-https://p11.magicplaces.eu/hbo2sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4e2916178ae6060badbfed8731c7c3924b90813d-fcc291fa4a36754aea8108813cec7393-1752625609-1752614809
-#EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
-https://p11.magicplaces.eu/hbo3sd/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=7be376d322dba64b1bd74316b0a78c9ab79706c8-01f4457db9eecde3fdbb36c14b271f5f-1752625617-1752614817
+
