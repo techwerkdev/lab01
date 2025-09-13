@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="15" tvg-name="Max Sport 1", Max Sport 1
+https://cdn.stgledai.org:8082/hls/mtelsport/index.m3u8?token=546ab1e6bc4506fc43d3505e5544be64804dd25f-342af3a2c6ff3d154cbf5b0ce242d8e5-1757717385-1757706585
+#EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
+https://cdn.stgledai.org:8082/hls/mtelsport2/index.m3u8?token=9feda1e6f20e870b1f960269c2f99abb67037fcf-1330b24d620d92befab07b14bbaefd4b-1757717407-1757706607
+#EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
+https://cdn.stgledai.org:8082/hls/mtelsport3/index.m3u8?token=3e39cde4f44e18ce270d5f3bb7267903541d186d-f1d0000cac58bf51c9fdf9be0151b913-1757717424-1757706624
