@@ -147,14 +147,18 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
+https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo2sd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
+https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=57526635&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MDEgQU0maGFzaF92YWx1ZT16bERDcTMvbG5FbzBqS05VZjVkTmd3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMDQxOGRiYzg=
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=57529395&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NTM6MzcgQU0maGFzaF92YWx1ZT1BazZYRU5GUHo0dHIrYnlCWmlvMCtBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMTkxMThkNjE=
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=57526695&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MDkgQU0maGFzaF92YWx1ZT0weWIxVTAybkN1OEloL2xMWnRkbmpRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMDQ5MmIzODU=
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=57529449&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NTM6NDQgQU0maGFzaF92YWx1ZT1IY1U4aUQ5MHh2WitUK2VsWU9sWHpBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMTk4YzJmOWY=
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=464028966&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MTYgQU0maGFzaF92YWx1ZT1JL2ltaXRUbDIzbDk1R1RHUGsyaXV3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=464029108&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NTM6NTEgQU0maGFzaF92YWx1ZT1vQzBmbFdMS2FGVEZKR0w3VmhEb2R3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=464028974&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MjQgQU0maGFzaF92YWx1ZT1IcmhMRVN4UlRGYjFQUXBKd2pSYnV3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=464029115&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NTM6NTkgQU0maGFzaF92YWx1ZT1jT2haTUErWG54MmRjam1od3drT1VRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
 https://t2.tvmak.com/tv/TV21MK.m3u8?2Af0g5EDQa
