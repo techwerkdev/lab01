@@ -139,32 +139,6 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Kika Kids", Kika Kids
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m3u8
-#EXTINF:-1 tvg-id="ch1" group-title="AT", ORF
-https://s6.hopslan.com/orfm11/index.m3u8
-#EXTINF:-1 tvg-id="ch2" group-title="AT", Servus TV
-https://s6.hopslan.com/servus22/index.m3u8
-#EXTINF:-1 tvg-id="ch3" group-title="AT", Super RTL
-https://s6.hopslan.com/superX/index.m3u8
-#EXTINF:-1 tvg-id="ch4" group-title="AT", ARD TV
-https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 tvg-id="ch5" group-title="AT", ZDF TV
-https://s6.hopslan.com/zdfX1/index.m3u8
-#EXTINF:-1 tvg-id="ch6" group-title="AT", Vox TV
-https://s6.hopslan.com/voxz/index.m3u8
-#EXTINF:-1 tvg-id="ch7" group-title="AT", N-TV
-https://s6.hopslan.com/ntvX/index.m3u8
-#EXTINF:-1 tvg-id="ch8" group-title="AT", Sat-Gold
-https://s6.hopslan.com/goldX/index.m3u8
-#EXTINF:-1 tvg-id="ch9" group-title="AT", TLC TV
-https://s6.hopslan.com/tlcX/index.m3u8
-#EXTINF:-1 tvg-id="ch10" group-title="AT", ZDF TV
-https://s6.hopslan.com/zdfX1/index.m3u8
-#EXTINF:-1 tvg-id="ch11" group-title="AT", One TV
-https://s6.hopslan.com/onetv/index.m3u8
-#EXTINF:-1 tvg-id="ch12" group-title="AT", SiXX TV
-https://s6.hopslan.com/sixX/index.m3u8
-#EXTINF:-1 tvg-id="ch13" group-title="AT", Phoenix TV
-https://s4.hopslan.com/phoenixX/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Discover Film TV", Discover Film TV
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Radio HitFm", Radio HitFm
@@ -173,10 +147,14 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
-https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo2sd%2Fvideo.m3u8
 
+#EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=57526635&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MDEgQU0maGFzaF92YWx1ZT16bERDcTMvbG5FbzBqS05VZjVkTmd3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMDQxOGRiYzg=
+#EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=57526695&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MDkgQU0maGFzaF92YWx1ZT0weWIxVTAybkN1OEloL2xMWnRkbmpRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZDNiMDQ5MmIzODU=
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=464028651&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6Mzc6MzkgQU0maGFzaF92YWx1ZT1JOTIxbmdNK2FybXNzaVVYTG40R25nPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=464028966&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MTYgQU0maGFzaF92YWx1ZT1JL2ltaXRUbDIzbDk1R1RHUGsyaXV3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=464028652&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6Mzc6NDcgQU0maGFzaF92YWx1ZT1oM0xjdlYzUWt6enp3aExmZ1ByWUpnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=464028974&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDg6NDg6MjQgQU0maGFzaF92YWx1ZT1IcmhMRVN4UlRGYjFQUXBKd2pSYnV3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
+https://t2.tvmak.com/tv/TV21MK.m3u8?2Af0g5EDQa
