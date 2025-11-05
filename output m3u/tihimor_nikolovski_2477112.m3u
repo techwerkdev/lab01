@@ -147,15 +147,39 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
-https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbohd%2Fvideo.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
-https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo2sd%2Fvideo.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
-https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=60869284&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDc6NDE6NDMgUE0maGFzaF92YWx1ZT1mQitjSjBYbTdjSWJZVDZOb1YyaXBnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZTE3ODc3ZTE2NGM=
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=70160657&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI1IDg6MDk6NTQgUE0maGFzaF92YWx1ZT1kSFYzSE5xdWY1RWNCL1ROdjVwSTRnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5MGJhZjEyN2ExNmU=
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=60869296&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDc6NDE6NTEgUE0maGFzaF92YWx1ZT1vajJ5VGl5alpRR01HQm9XSityTURRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4ZTE3ODdmYTkzNGI=
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=70160671&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI1IDg6MTA6MDIgUE0maGFzaF92YWx1ZT0wOHJZcExqb0x2ZUFZNDhpVWg4WHlRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5MGJhZjFhMWFlMzU=
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=464911962&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDc6NDE6NTggUE0maGFzaF92YWx1ZT1CcldvcUFMYTJYV0JpUEFxREQ1MWJnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=467571974&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI1IDg6MTA6MDkgUE0maGFzaF92YWx1ZT1aWDBjeTI4bXdvSHEwemh0ZWg5N2l3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=467572004&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI1IDg6MTA6MTggUE0maGFzaF92YWx1ZT1WZ2FPMUxFamRjdWZKNVdYckJ6WUFRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
+https://t2.tvmak.com/tv/TV21MK.m3u8?19RoSL7dZD
+#EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
+https://s6.hopslan.com/orf122/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
+https://s6.hopslan.com/servus1/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Vox TV", Vox TV
+https://s6.hopslan.com/voxz/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
+https://s6.hopslan.com/onetv/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Phoenix TV", Phoenix TV
+https://s4.hopslan.com/phoenixX/index.m3u8
