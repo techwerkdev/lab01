@@ -172,12 +172,12 @@ https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=73913194&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjE0OjI3IFBNJmhhc2hfdmFsdWU9WEYwOTNTeVFkdWU1bmVTUnlXQUZXUT09JnZhbGlkbWludXRlcz0zMCZpZD02OTFjYzU5MzQ0MGEz
+https://live3.cdn-canlitv.com/mrt1.m3u8?anahtar=0Aovs3z4BhwEKPdYHo7p8A&sure=1763746417&ip=84.115.232.95
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=73913212&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjE0OjM1IFBNJmhhc2hfdmFsdWU9TkU0bHZSR05FOHFudTZ1bFdmQmZRQT09JnZhbGlkbWludXRlcz0zMCZpZD02OTFjYzU5YjM2YjJh
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=74954773&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozMzozOCBBTSZoYXNoX3ZhbHVlPTZKZkZWaXBRREtZQVZjcE15Wm8yTmc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9NjkyMDRlMTI3N2Q1MQ==
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=468524037&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjE0OjQyIFBNJmhhc2hfdmFsdWU9U0x2bGNibmpnTGE1dTA3ekhwOW5FZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=468735257&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozMzo0NSBBTSZoYXNoX3ZhbHVlPW1NaDAxWDZ4SFhkTGFwYXZGS1R1MVE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468524073&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjE0OjQ5IFBNJmhhc2hfdmFsdWU9bjdkRzQyK056aGsrY2liL1NwK21tdz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
-https://t2.tvmak.com/tv/TV21MK.m3u8?piMxSs7OjB
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468735266&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozMzo1NCBBTSZoYXNoX3ZhbHVlPUtCanhWbGRYdUUwK1VURjdPYkQ5Zmc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+#EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
+https://live3.cdn-canlitv.com/telma.m3u8?anahtar=-hcBX7hHvuWWyJOAmaXlXw&sure=1763746444&ip=84.115.232.95
