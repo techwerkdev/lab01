@@ -172,12 +172,10 @@ https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://live3.cdn-canlitv.com/mrt1.m3u8?anahtar=T6rwlqjm3tUFub2xd0bQBg&sure=1763746734&ip=84.115.232.95
+https://live3.cdn-canlitv.com/mrt1.m3u8?anahtar=7l4bi4hZrjcOUFoNK4brpw&sure=1763746863&ip=84.115.232.95
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozODo1NSBBTSZoYXNoX3ZhbHVlPXdGY2xZYlNqWmN3dm1rdGpocS85UEE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9NjkyMDRmNGZhYTBjMQ==
-#EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozODo1NiBBTSZoYXNoX3ZhbHVlPU5MUEZtd1ZqRllVTUhJb1B2UGU1WkE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=74958569&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTo0MTowNSBBTSZoYXNoX3ZhbHVlPUE1ek14c21PcXpOZURMUzNuU2lZWlE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9NjkyMDRmZDFkMjllYw==
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozODo1OCBBTSZoYXNoX3ZhbHVlPVMxSWRSbE94UGpGbTI1UkIwWW91anc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468735527&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTo0MToyNSBBTSZoYXNoX3ZhbHVlPU1WTy9uRnlwU0lRemNBQjhhcnp2YkE9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468735432&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSAxMTozODo1OCBBTSZoYXNoX3ZhbHVlPVMxSWRSbE94UGpGbTI1UkIwWW91anc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD01
+https://live3.cdn-canlitv.com/telma.m3u8?anahtar=TcDuUVfyGVKnNE3E9V1YFA&sure=1763746905&ip=84.115.232.95
