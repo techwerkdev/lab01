@@ -1,84 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
-https://s6.hopslan.com/orf122/index.m3u8
+https://s6.hopslan.com/orf123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ORF 2", ORF 2
+https://s6.hopslan.com/orf2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ORF 3", ORF 3
+https://s6.hopslan.com/orf3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
-https://s6.hopslan.com/servus1/index.m3u8
+https://s6.hopslan.com/servus1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
-https://s6.hopslan.com/superX/index.m3u8
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="RTL", RTL HD
+https://s6.hopslan.com/rtll/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="RTL NITRO", RTL NITRO
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
-https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="ZDF TV", ZDF TV
-https://s6.hopslan.com/zdfX1/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Vox TV", Vox TV
-https://s6.hopslan.com/voxz/index.m3u8
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
-https://s6.hopslan.com/ntvX/index.m3u8
+https://s6.hopslan.com/ntvX/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
-https://s6.hopslan.com/goldX/index.m3u8
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
-https://s6.hopslan.com/tlcX/index.m3u8
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
-https://s6.hopslan.com/zdfX1/index.m3u8
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
-https://s6.hopslan.com/onetv/index.m3u8
+https://s6.hopslan.com/onetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
-https://s6.hopslan.com/sixX/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Phoenix TV", Phoenix TV
-https://s4.hopslan.com/phoenixX/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Kanal8", Kanal8
-https://live20.bozztv.com/giatv/giatv-kanal8live/kanal8live/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Nasha TV", Nasha TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
-https://t2.tvmak.com/tv/TV21MK.m3u8?19RoSL7dZD
-#EXTINF:-1 tvg-id="1" tvg-name="TV VIS, TV VIS
-https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="StarPlus TV", StarPlus TV 
-https://tv.starfolk.net/live/StarPlus/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Rock TV", Rock TV MK
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="SkyFolk TV", SkyFolk TV
-https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVZdravkin", TVZdravkin
-http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TV NOVA 12", TV NOVA 12
-http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET INFO", M-NET INFO
-http://live.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET GOURMET", M-NET GOURMET
-http://live.mnet.mk/hls/mnet-gourmet.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET SPORT", M-NET SPORT
-http://live.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="M-NET KIDS", M-NET KIDS
-http://live.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
-https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
-https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Cafe&Club Serbia", Muzzik Cafe&Club Serbia
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik HipHop Serbia", Muzzik HipHop Serbia
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik OKK Serbia", Muzzik OKK Serbia
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Rock&Roll Serbia", Muzzik Rock&Roll Serbia
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik TV Serbia", Muzzik TV Serbia
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Worldwide Serbia", Muzzik Worldwide Serbia
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik AMVA 2020", Muzzik AMVA 2020
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Jeka Serbia", Muzzik Jeka Serbia
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Mediteraneo Serbia", Muzzik Mediteraneo Serbia
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Magic TV", Magic TV
-https://bss1.neterra.tv/magictv/magictv.m3u8
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="TELE 5", TELE 5 TV
+https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Kabel 1", Kabel 1 TV
+https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Kabel 1 Doku", Kabel 1 Doku TV
+https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Vox", VOX TV
+https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="The Voice TV", The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="This is Bulgaria HD", This is Bulgaria HD
@@ -91,14 +47,12 @@ https://go2thls.wns.live/hls/stream.m3u8
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Hope Channel Bulgaria", Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera Balkans", Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Libertas HR", Libertas HR
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="TV Pirot", TV Pirot
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="TV NewsMedia", NewsMedia
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="TVCG 3", TVCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1023" tvg-name="BN TV", BN TV
@@ -117,6 +71,16 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Telekriti", Telekriti
 https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Magic TV", Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Deejay TV IT", Deejay TV IT
 https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Radio m2o", Radio m2o
@@ -127,6 +91,8 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Ocko TV", Ocko TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="280" tvg-name="FashionTV", FashionTV
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Deluxe Dance", Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Kronehit", Kronehit
@@ -151,12 +117,10 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist_DVR.m3u8
 https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="1323" tvg-name="Canal 24 Horas", Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera Qatar", Al Jazeera Qatar
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera", Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="NL", NL
 https://live.omroepnet.nl/hls/1/stream.m3u8
-#EXTINF:-1 tvg-id="280" tvg-name="FashionTV", FashionTV
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="CurrentTime TV", CurrentTime TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Outdoor Sports", Outdoor Sports
@@ -171,19 +135,43 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="BarcaTV", BarcaTV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="StarPlus TV", StarPlus TV 
+https://tv.starfolk.net/live/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Rock TV", Rock TV MK
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SkyFolk TV", SkyFolk TV
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TVZdravkin", TVZdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV NOVA 12", TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET GOURMET", M-NET GOURMET
+https://live.mnet.mk/hls/mnet-gourmet.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET SPORT", M-NET SPORT
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET KIDS", M-NET KIDS
+https://live.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Kanal8", Kanal8
+https://live20.bozztv.com/giatv/giatv-kanal8live/kanal8live/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Nasha TV", Nasha TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET INFO", M-NET INFO
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV VIS, TV VIS
+https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=75605522&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjUzOjAyIFBNJmhhc2hfdmFsdWU9QnVnWUFadGxYWGRrNHFNR2J0aXNXdz09JnZhbGlkbWludXRlcz0zMCZpZD02OTI0OGQ2ZTVlMjMw
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=75620999&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ4OjEwIFBNJmhhc2hfdmFsdWU9cVhSd01KTTRBeEZURlFISk9GN0Q0Zz09JnZhbGlkbWludXRlcz0zMCZpZD02OTI0YTg2YTJhN2Yy
 #EXTINF:-1 tvg-id="102" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=75605569&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjUzOjIxIFBNJmhhc2hfdmFsdWU9dEtnaFNPd2kxUVR5emo2M3ZoWmR3UT09JnZhbGlkbWludXRlcz0zMCZpZD02OTI0OGQ4MWEyMDA5
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p2/chunks.m3u8?nimblesessionid=75621041&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ4OjI5IFBNJmhhc2hfdmFsdWU9eUVhNnhiY2xPRFNsOURIUlJnVW1adz09JnZhbGlkbWludXRlcz0zMCZpZD02OTI0YTg3ZDYzYTNi
 #EXTINF:-1 tvg-id="106" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=468946445&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjUzOjQwIFBNJmhhc2hfdmFsdWU9YXJLaVVCUStSUVYwd1BTMnc1dEhYUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=468957327&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ4OjQ4IFBNJmhhc2hfdmFsdWU9eGpwVDdMbXBicitUUkhmVDdHZ0dWQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="107" tvg-name="Kanal 5", Kanal 5
-https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468946474&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjU0OjAwIFBNJmhhc2hfdmFsdWU9TjMxRlZsK3ZIMEZsbE4rVEJUWHJkdz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=468957422&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ5OjA4IFBNJmhhc2hfdmFsdWU9Vnd3YkhnZ0I1Q3M1bDFlNWRDUDdjQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="108" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=468946513&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjU0OjIwIFBNJmhhc2hfdmFsdWU9dzVpcVRQK29EVVFwUzN4SUlSOE8zZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=468957486&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ5OjI3IFBNJmhhc2hfdmFsdWU9c2tMbmhTWW5zdXQ4Z2l6cncrc2FpQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="109" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=468946534&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjU0OjM5IFBNJmhhc2hfdmFsdWU9dWtHdGV5b0o1bi9FSEEyVVF5SFdYQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=468957554&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjQ5OjQ2IFBNJmhhc2hfdmFsdWU9NDB6NFp0ZXFNelNNMWlQaXhCYlBjZz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="110" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=468946550&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA0OjU0OjU4IFBNJmhhc2hfdmFsdWU9MFNHRVIxRUJJL1VzMzgyTGprRm5IUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=468957620&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNSA2OjUwOjA1IFBNJmhhc2hfdmFsdWU9Sld6SUlmYWoyaGNTSTRxSzE5UmM2UT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="104" tvg-name="TV21", TV21
 https://t2.tvmak.com/tv/TV21MK.m3u8?mDQ9bg5osI
