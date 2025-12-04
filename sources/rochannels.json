@@ -1,0 +1,23 @@
+[
+    {
+        "id": 111,
+        "name": "HBO 1",
+        "url": "https://rds.live/hbo-hd-1/",
+        "category": "Филм",
+        "clickSelector": "#tab1-content > div > div.play-button-overlay"
+    },
+    {
+        "id": 112,
+        "name": "HBO 2",
+        "url": "https://rds.live/hbo-2-hd/",
+        "category": "Филм",
+        "clickSelector": "#tab1-content > div > div.play-button-overlay"
+    },
+    {
+        "id": 113,
+        "name": "HBO 3",
+        "url": "https://rds.live/hbo-3-hd/",
+        "category": "Филм",
+        "clickSelector": "#tab1-content > div > div.play-button-overlay"
+    }
+]

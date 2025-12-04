@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="111" tvg-name="HBO 1",HBO 1
+https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbohd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="HBO 2",HBO 2
+https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo2sd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="HBO 3",HBO 3
+https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fhbo3sd%2Fvideo.m3u8

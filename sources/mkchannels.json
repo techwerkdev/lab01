@@ -1,0 +1,50 @@
+[
+  {
+    "id": 103,
+    "name": "MRT 1 SAT",
+    "url": "https://play.mrt.com.mk/live/45",
+    "category": "Вести"
+  },
+  {
+    "id": 102,
+    "name": "Sobraniski Kanal",
+    "url": "https://play.mrt.com.mk/live/44",
+    "category": "Вести"
+  },
+  {
+    "id": 106,
+    "name": "Sitel TV",
+    "url": "https://tvstanici.net/sitel-vo-zivo",
+    "category": "Вести"
+  },
+  {
+    "id": 107,
+    "name": "Kanal 5",
+    "url": "https://tvstanici.net/kanal5-vo-zivo",
+    "category": "Вести"
+  },
+  {
+    "id": 108,
+    "name": "Telma TV",
+    "url": "https://tvstanici.net/telma-vo-zivo",
+    "category": "Вести"
+  },
+  {
+    "id": 109,
+    "name": "Alfa TV",
+    "url": "https://tvstanici.net/alfa-vo-zivo/",
+    "category": "Вести"
+  },
+  {
+    "id": 110,
+    "name": "24 Vesti",
+    "url": "https://tvstanici.net/24-vesti-vo-zivo",
+    "category": "Вести"
+  },
+  {
+    "id": 104,
+    "name": "TV21",
+    "url": "https://mk.tv21.tv/live-tv",
+    "category": "Вести"
+  }
+]

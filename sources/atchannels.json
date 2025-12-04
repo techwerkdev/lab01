@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "ORF 1",
+    "url": "https://www.2ix2.com/orf1/",
+    "category": "Вести"
+  },
+  {
+    "id": 2,
+    "name": "ORF 2",
+    "url": "https://www.2ix2.com/orf2/",
+    "category": "Вести"
+  },
+  {
+    "id": 3,
+    "name": "ORF 3",
+    "url": "https://www.2ix2.com/orf3/",
+    "category": "Вести"
+  },
+  {
+    "id": 4,
+    "name": "Super RTL",
+    "url": "https://www.2ix2.com/super-rtl-live/",
+    "category": "Вести"
+  },
+  {
+    "id": 5,
+    "name": "ARD TV",
+    "url": "https://www.2ix2.com/ard-de/",
+    "category": "Забава"
+  },
+  {
+    "id": 6,
+    "name": "ZDF TV",
+    "url": "https://www.2ix2.com/zdf-de/",
+    "category": "Забава"
+  },
+  {
+    "id": 7,
+    "name": "Vox TV",
+    "url": "https://www.2ix2.com/vox/",
+    "category": "Забава"
+  },
+  {
+    "id": 8,
+    "name": "N-TV",
+    "url": "https://www.2ix2.com/n-tv-live/",
+    "category": "Забава"
+  },
+  {
+    "id": 9,
+    "name": "Sat-Gold",
+    "url": "https://www.2ix2.com/sat1-gold/",
+    "category": "Забава"
+  },
+  {
+    "id": 10,
+    "name": "TLC TV",
+    "url": "https://www.2ix2.com/tlc/",
+    "category": "Забава"
+  },
+  {
+    "id": 11,
+    "name": "ZDF TV",
+    "url": "https://www.2ix2.com/zdf-de/",
+    "category": "Филм"
+  },
+  {
+    "id": 12,
+    "name": "One TV",
+    "url": "https://www.2ix2.com/one-tv/",
+    "category": "Филм"
+  },
+  {
+    "id": 13,
+    "name": "SiXX TV",
+    "url": "https://www.2ix2.com/sixx/",
+    "category": "Филм"
+  },
+  {
+    "id": 14,
+    "name": "Phoenix TV",
+    "url": "https://www.2ix2.com/phoenix/",
+    "category": "Документарни"
+  },
+  {
+    "id": 15,
+    "name": "Servus TV",
+    "url": "https://www.2ix2.com/servus-tv/",
+    "category": "Документарни"
+  }
+]

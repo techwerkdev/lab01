@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2" tvg-name="ORF", ORF
+https://s6.hopslan.com/orf122/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Servus TV", Servus TV
+https://s6.hopslan.com/servus1/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Super RTL", Super RTL
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Vox TV", Vox TV
+https://s6.hopslan.com/voxz/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="N-TV", N-TV
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Sat-Gold", Sat-Gold
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="TLC TV", TLC TV
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX1/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="One TV", One TV
+https://s6.hopslan.com/onetv/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="SiXX TV", SiXX TV
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Phoenix TV", Phoenix TV
+https://s4.hopslan.com/phoenixX/index.m3u8
